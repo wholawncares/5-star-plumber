@@ -1,0 +1,291 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/backflow-prevention-and-testing.html",
+      "destination": "/backflow-prevention-and-testing",
+      "permanent": true
+    },
+    {
+      "source": "/bathroom-plumbing-services.html",
+      "destination": "/bathroom-plumbing-services",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/commercial-plumbing-services.html",
+      "destination": "/commercial-plumbing-services",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/drain-cleaning.html",
+      "destination": "/drain-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/emergency-plumbing-services.html",
+      "destination": "/emergency-plumbing-services",
+      "permanent": true
+    },
+    {
+      "source": "/faucet-repair-and-installation.html",
+      "destination": "/faucet-repair-and-installation",
+      "permanent": true
+    },
+    {
+      "source": "/gas-leak-detection-and-repair.html",
+      "destination": "/gas-leak-detection-and-repair",
+      "permanent": true
+    },
+    {
+      "source": "/gas-line-services.html",
+      "destination": "/gas-line-services",
+      "permanent": true
+    },
+    {
+      "source": "/hydro-jetting.html",
+      "destination": "/hydro-jetting",
+      "permanent": true
+    },
+    {
+      "source": "/kitchen-plumbing-services.html",
+      "destination": "/kitchen-plumbing-services",
+      "permanent": true
+    },
+    {
+      "source": "/laundry-room-plumbing-services.html",
+      "destination": "/laundry-room-plumbing-services",
+      "permanent": true
+    },
+    {
+      "source": "/leak-detection-and-repair.html",
+      "destination": "/leak-detection-and-repair",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/pipe-repair-and-replacement.html",
+      "destination": "/pipe-repair-and-replacement",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-arlington-heights-business-district.html",
+      "destination": "/plumbing-arlington-heights-business-district",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-arlington-market.html",
+      "destination": "/plumbing-arlington-market",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-berkley-square.html",
+      "destination": "/plumbing-berkley-square",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-cambridge.html",
+      "destination": "/plumbing-cambridge",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-countryside.html",
+      "destination": "/plumbing-countryside",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-creekside.html",
+      "destination": "/plumbing-creekside",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-downtown-arlington-heights.html",
+      "destination": "/plumbing-downtown-arlington-heights",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-greenbrier.html",
+      "destination": "/plumbing-greenbrier",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-hancock-square.html",
+      "destination": "/plumbing-hancock-square",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-hasbrook.html",
+      "destination": "/plumbing-hasbrook",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-heritage-park.html",
+      "destination": "/plumbing-heritage-park",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-lake-arlington.html",
+      "destination": "/plumbing-lake-arlington",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-maintenance.html",
+      "destination": "/plumbing-maintenance",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-miner-street-corridor.html",
+      "destination": "/plumbing-miner-street-corridor",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-northgate.html",
+      "destination": "/plumbing-northgate",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-old-arlington-heights.html",
+      "destination": "/plumbing-old-arlington-heights",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-pioneer-park.html",
+      "destination": "/plumbing-pioneer-park",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-repairs.html",
+      "destination": "/plumbing-repairs",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-scarsdale.html",
+      "destination": "/plumbing-scarsdale",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-sherwood.html",
+      "destination": "/plumbing-sherwood",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-vail-avenue-corridor.html",
+      "destination": "/plumbing-vail-avenue-corridor",
+      "permanent": true
+    },
+    {
+      "source": "/plumbing-westgate.html",
+      "destination": "/plumbing-westgate",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/repiping-services.html",
+      "destination": "/repiping-services",
+      "permanent": true
+    },
+    {
+      "source": "/residential-plumbing-services.html",
+      "destination": "/residential-plumbing-services",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/sewer-line-cleaning.html",
+      "destination": "/sewer-line-cleaning",
+      "permanent": true
+    },
+    {
+      "source": "/sewer-line-repair.html",
+      "destination": "/sewer-line-repair",
+      "permanent": true
+    },
+    {
+      "source": "/sewer-line-replacement.html",
+      "destination": "/sewer-line-replacement",
+      "permanent": true
+    },
+    {
+      "source": "/shower-and-bathtub-services.html",
+      "destination": "/shower-and-bathtub-services",
+      "permanent": true
+    },
+    {
+      "source": "/sink-and-garbage-disposal-services.html",
+      "destination": "/sink-and-garbage-disposal-services",
+      "permanent": true
+    },
+    {
+      "source": "/sump-pump-services.html",
+      "destination": "/sump-pump-services",
+      "permanent": true
+    },
+    {
+      "source": "/tankless-water-heater-services.html",
+      "destination": "/tankless-water-heater-services",
+      "permanent": true
+    },
+    {
+      "source": "/toilet-repair-and-installation.html",
+      "destination": "/toilet-repair-and-installation",
+      "permanent": true
+    },
+    {
+      "source": "/video-camera-inspection.html",
+      "destination": "/video-camera-inspection",
+      "permanent": true
+    },
+    {
+      "source": "/water-filtration-system-services.html",
+      "destination": "/water-filtration-system-services",
+      "permanent": true
+    },
+    {
+      "source": "/water-heater-installation.html",
+      "destination": "/water-heater-installation",
+      "permanent": true
+    },
+    {
+      "source": "/water-heater-repair.html",
+      "destination": "/water-heater-repair",
+      "permanent": true
+    },
+    {
+      "source": "/water-softener-installation-and-repair.html",
+      "destination": "/water-softener-installation-and-repair",
+      "permanent": true
+    }
+  ]
+}
